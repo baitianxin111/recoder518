@@ -6,7 +6,7 @@
 	Recoder.prototype.getWediaStream = function(){
 		var config = {
 					audio:true,
-//					video:true
+					video:true
 		};
 		var self = this;
 		//缓存数组 把数据放到这里面
